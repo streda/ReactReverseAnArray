@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0",
+    "uuidv4": "6.2.13"
+  },
+  "main": "/index.js",
+  "devDependencies": {}
+}
